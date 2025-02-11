@@ -39,7 +39,7 @@ const carouselData = [
         image: '/assets/bik.jpg',
         title: 'MOTOCIKLI I QUADOVI',
         description:
-          'Otkup motocikala i quadova – najbolje cijene i fer procjena, specijalizirani smo za dvoznačna vozila.',
+          'Otkup motora i quadova – najbolje cijene i fer procjena, specijalizirani smo za dvoznačna vozila.',
         dodatniOpis: 'Ekspresna evaluacija • Isplata odmah • Najbolje ponude'
       },
     {
