@@ -28,7 +28,7 @@ const carouselData = [
     
     {
         id: 9,
-        image: '/assets/cab2.jpg', // Provjerite da li ova slika postoji
+        image: '/assets/cab2.jpg',
         title: 'KABRIOLETI',
         description:
           'Otkup kabrioleta – vozila koja odišu elegancijom i slobodom, uz fer procjenu i brzu isplatu.',
