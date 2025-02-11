@@ -2,9 +2,9 @@ import "./globals.css";
 
 export const metadata = {
   title:
-    "Otkup Vozila | Brzi Otkup Automobila, Motocikala, Motora, Kombija i Više – Fer Procjena i Isplata na Licu Mjesta",
+    "Otkup Vozila | Brzi Otkup Automobila, Motora, Quadova, Kombija i Više – Fer Procjena i Isplata na Licu Mjesta",
   description:
-    "Prodajte svoje vozilo, automobil, motocikl, motor ili kombi brzo i sigurno uz našu profesionalnu uslugu otkupa vozila. Nudimo brzu isplatu, dolazak na adresu, fer procjenu i najbolje ponude za otkup automobila, motocikala, motora, kombija, teretnih i putničkih vozila. Kontaktirajte nas odmah za pouzdan, brzi otkup vozila u Hrvatskoj.",
+    "Prodajte svoje vozilo, automobil, motor, quad ili kombi brzo i sigurno uz našu profesionalnu uslugu otkupa vozila. Nudimo brzu isplatu, dolazak na adresu, fer procjenu i najbolje ponude za otkup automobila, motocikala, motora, kombija, teretnih i putničkih vozila. Kontaktirajte nas odmah za pouzdan, brzi otkup vozila u Hrvatskoj.",
   keywords:
     "otkup vozila, otkup automobila, otkup motocikala, otkup kamiona, otkup motora, otkup auta, brzi otkup, otkup kombija, otkup teretnih vozila, otkup putničkih kombija, otkup motornih vozila, otkup vozila bez stresa, otkup vozila online, prodaja vozila, otkup vozila Hrvatska",
   openGraph: {
@@ -27,7 +27,7 @@ export const metadata = {
   twitter: {
     card: "summary_large_image",
     site: "@vasastranica",
-    title: "Otkup Vozila - Brzi Otkup Automobila, Motocikala, Motora i Kombija",
+    title: "Otkup Vozila - Brzi Otkup Automobila, Motora, Quadova i Kombija",
     description:
       "Prodajte svoje vozilo brzo i sigurno. Nudimo fer procjenu, brzu isplatu, dolazak na adresu i najbolje ponude za otkup automobila, motocikala, motora, kombija, te ostalih vozila.",
     images: ["https://otkup.netlify.app/assets/bmw.jpg"],
