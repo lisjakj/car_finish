@@ -107,11 +107,11 @@ const Hero = () => {
                                     <h1 className="f-montserrat uppercase text-5xl lg:text-7xl font-bold mb-8 mt-20">
                                         {slide.title}
                                     </h1>
-                                    <p className="text-lg md:text-xl lg:text-3xl mb-28 text-yellow-500">
+                                    <p className="text-lg md:text-xl lg:text-3xl mb-24 text-yellow-500">
                                         {slide.description}
                                     </p>
                                     
-                                    <a href="tel:+385998284489" className="bg-yellow-400 text-2xl rounded-full text-black py-5 px-8 font-bold hover:bg-yellow-300 transition-all duration-300 hover:scale-105 shadow-lg hover:shadow-yellow-500/50 mb-28">
+                                    <a href="tel:+385998284489" className="bg-yellow-400 text-2xl rounded-full text-black py-5 px-8 font-bold hover:bg-yellow-300 transition-all duration-300 hover:scale-105 shadow-lg hover:shadow-yellow-500/50 mb-24">
                                         +385 99 828 4489
                                     </a>
                                     <p className="text-lg lg:text-xl text-gray-200">
