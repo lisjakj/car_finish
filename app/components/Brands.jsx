@@ -63,7 +63,7 @@ const Brands = () => {
         <section className="px-5 py-20">
             <div className="max-w-[1220px] mx-auto overflow-hidden">
                 <div>
-                    <h2 className="text-white text-3xl text-center font-bold f-montserrat uppercase">Otkup svih <span className='text-yellow-500'>marki vozila</span> – isplata odmah i dolazak na adresu</h2>
+                    <h2 className="text-white text-3xl text-center font-bold f-montserrat uppercase">Otkup <span className='text-yellow-500'> svih marki vozila</span> – isplata odmah i dolazak na adresu</h2>
                     <div className='flex items-center justify-center flex-col gap-1 mt-4'>
                         <div className='w-[60px] h-[1px] bg-yellow-500'></div>
                         <div className='w-[60px] h-[1px] bg-yellow-500'></div>
