@@ -26,7 +26,7 @@ const Footer = () => {
                         Kontaktirajte nas
                     </h2>
 
-                    <p className='text-white text-lg font-medium'>Telefon: +385998284489</p>
+                    <p className='text-white text-lg font-medium'>Telefon: +38598200820</p>
 
                     {/* Buttons animation */}
                     <motion.div
@@ -37,21 +37,21 @@ const Footer = () => {
                     >
                         {/* Call Icon */}
                         <motion.div whileHover={{ scale: 1.1 }} whileTap={{ scale: 0.95 }}>
-                            <Link href="tel:+385998284489" className='w-16 h-16 rounded-full flex justify-center items-center border border-yellow-500 hover:bg-yellow-500 transition-all duration-300'>
+                            <Link href="tel:+38598200820" className='w-16 h-16 rounded-full flex justify-center items-center border border-yellow-500 hover:bg-yellow-500 transition-all duration-300'>
                                 <IoCall size={30} />
                             </Link>
                         </motion.div>
 
                         {/* WhatsApp Icon */}
                         <motion.div whileHover={{ scale: 1.1 }} whileTap={{ scale: 0.95 }}>
-                            <Link href="https://wa.me/+385998284489" target='_blank' className='w-16 h-16 rounded-full flex justify-center items-center border border-yellow-500 hover:bg-yellow-500 transition-all duration-300'>
+                            <Link href="https://wa.me/+38598200820" target='_blank' className='w-16 h-16 rounded-full flex justify-center items-center border border-yellow-500 hover:bg-yellow-500 transition-all duration-300'>
                                 <FaWhatsapp size={30} />
                             </Link>
                         </motion.div>
 
                         {/* Viber Icon */}
                         <motion.div whileHover={{ scale: 1.1 }} whileTap={{ scale: 0.95 }}>
-                            <Link href="viber://chat?number=%2B385998284489" target='_blank' className='w-16 h-16 rounded-full flex justify-center items-center border border-yellow-500 hover:bg-yellow-500 transition-all duration-300'>
+                            <Link href="viber://chat?number=%2B38598200820" target='_blank' className='w-16 h-16 rounded-full flex justify-center items-center border border-yellow-500 hover:bg-yellow-500 transition-all duration-300'>
                                 <FaViber size={30} />
                             </Link>
                         </motion.div>

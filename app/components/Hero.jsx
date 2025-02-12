@@ -111,8 +111,8 @@ const Hero = () => {
                                         {slide.description}
                                     </p>
                                     
-                                    <a href="tel:+385998284489" className="bg-yellow-400 text-2xl rounded-full text-black py-5 px-8 font-bold hover:bg-yellow-300 transition-all duration-300 hover:scale-105 shadow-lg hover:shadow-yellow-500/50 mb-24">
-                                        +385 99 828 4489
+                                    <a href="tel:+38598200820" className="bg-yellow-400 text-2xl rounded-full text-black py-5 px-8 font-bold hover:bg-yellow-300 transition-all duration-300 hover:scale-105 shadow-lg hover:shadow-yellow-500/50 mb-24">
+                                        +385 98 200 820
                                     </a>
                                     <p className="text-lg lg:text-xl text-gray-200">
                                         {slide.dodatniOpis}
